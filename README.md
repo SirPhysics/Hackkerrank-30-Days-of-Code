@@ -18,3 +18,6 @@ These are my submitted codes for the Hackkerank 30 Days of Code.
 
 ## Day 5: Loops
 ![image](https://user-images.githubusercontent.com/62376291/163669541-17192a29-9394-4e15-a577-bb3dd7418795.png)
+
+## Day 6: Let's Review
+![image](https://user-images.githubusercontent.com/62376291/163674210-1cb4e525-1339-4d56-9159-041682425dc9.png)
