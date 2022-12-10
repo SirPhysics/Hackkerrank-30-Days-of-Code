@@ -6,7 +6,7 @@ import sys
 
 # defined the function before it is called in the main function
 def reverse_list(n, arr):
-    if 1<= n <= 1000 and 1<= len(arr) <= 10000:
+    if 1 <= n <= 1000 and 1 <= len(arr) <= 10000:
         re_arr = arr[::-1]
         return re_arr
 
