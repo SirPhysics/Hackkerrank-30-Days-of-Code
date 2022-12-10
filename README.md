@@ -1,4 +1,4 @@
-# Hackkerrank-30-Days-of-Code
+# HackerRank-30-Days-of-Code
 These are my submitted codes for the Hackkerank 30 Days of Code.
 
 ## Day 0: Hello, World.
