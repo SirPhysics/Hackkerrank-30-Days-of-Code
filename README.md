@@ -18,7 +18,7 @@ the problem: https://www.hackerrank.com/challenges/30-conditional-statements/pro
 <br>my soln: https://github.com/jameskychoi/Hackkerrank-30-Days-of-Code/blob/main/Day%203%20-%20Intro%20to%20Conditional%20Statements.py</br>
 
 ## Day 4: Class vs. Instance
-the problem: https://www.hackerrank.com/challenges/30-data-types/problem 10 
+the problem: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 <br>my soln: https://github.com/jameskychoi/Hackkerrank-30-Days-of-Code/blob/main/Day%204%20-%20Class%20vs%20Instance.py</br>
 
 ## Day 5: Loops
