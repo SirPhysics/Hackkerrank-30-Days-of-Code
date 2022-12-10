@@ -22,4 +22,4 @@ These are my submitted codes for the Hackkerank 30 Days of Code.
 
 ## Day 7: Arrays
 the problem: https://www.hackerrank.com/challenges/30-arrays/problem
-my soln: https://github.com/jameskychoi/Hackkerrank-30-Days-of-Code/blob/main/Day%207%20-%20Arrays.py
+<br>my soln: https://github.com/jameskychoi/Hackkerrank-30-Days-of-Code/blob/main/Day%207%20-%20Arrays.py</br>
